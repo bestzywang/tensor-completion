@@ -1,4 +1,4 @@
-"Low-Rank Tensor Completion via Novel Sparsity-Inducing Regularizers"
+# Low-Rank Tensor Completion via Novel Sparsity-Inducing Regularizers
 
 This paper proposes a framework to generate sparsity-inducing regularizers with closed-form proximity operators, which avoids iterations. 
 
